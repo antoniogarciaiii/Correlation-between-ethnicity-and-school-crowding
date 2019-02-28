@@ -8,9 +8,7 @@ Much to my suspicions, the community areas with the highest overcrowding have si
 
 Speaking from a demographic standpoint, specific information regarding immigration backstory are sometimes lost during the assimilation to "American Whiteness." As another example, Latinx soldiers who served in World War II were registered as White. This is not an attempt to deconsctruct "whiteness," but rather, better understand school crowding using limited socioeconomic and demographic data.
 
-
-
-
+## Resources
 Also available on Tableau Public: CPS Ethnicity and Overcrowding
 [Also available on Tableau Public: CPS Ethnicity and Overcrowding](https://public.tableau.com/profile/antonio.garcia3916#!/vizhome/CPSEthnicityandOvercrowding/InteractiveMap)
 
