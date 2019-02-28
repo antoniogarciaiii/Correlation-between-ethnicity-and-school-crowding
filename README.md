@@ -1,7 +1,7 @@
 # Correlation between ethnicity and school crowding in Chicago Public Schools
-This exercise aims to concretely show the overcrowding occuring in schools with predominantly students of color. 
+This exercise aims to concretely show the overcrowding occuring in schools with predominantly students of color using publicly available data. 
 
-![Image of data, featuring a small map, the ethnicity distrubtion for a Chicago Neighborhood](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Image of data, featuring a small map, the ethnicity distrubtion for a Chicago Neighborhood](https://github.com/antoniogarciaiii/Correlation-between-ethnicity-and-school-crowding/blob/master/Capture01.png "Logo Title Text 1")
 
 ## Author's observations
 Much to my suspicions, the community areas with the highest overcrowding have significantly higher poropertions of students of color. There are some overcrowded community areas with a high amount of White students. However, I would like to see further data about this, such as subests of varying levels of "whiteness/assimilation." Are these recent immigrants from Europe, for example, or are these third generation families?
